@@ -1,0 +1,19 @@
+body {
+  background-color: rgba(245, 184, 30, 0.989);
+  color: rgb(51, 0, 255);
+  width: 500px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+input {
+  height: 50px;
+}
+
+ul  {
+list-style:none;
+padding:0;
+}
+li.message-other {
+  color: #e82712;
+}
